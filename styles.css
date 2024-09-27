@@ -1,0 +1,13 @@
+body {
+    color: rgb(0 25 76);
+    background: rgb(184 184 184);
+}
+
+header{
+    border-bottom: solid 2px rgb(36, 126, 222);
+    padding-left: 1050px;
+    font-size: 20px;
+}
+iframe{
+    padding-left: 500px;
+}
